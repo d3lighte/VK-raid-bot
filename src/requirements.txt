@@ -1,2 +1,1 @@
 https://github.com/fscdev/vkwave/archive/master.zip
-loguru
