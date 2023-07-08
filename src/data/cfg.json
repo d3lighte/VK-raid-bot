@@ -1,0 +1,6 @@
+{
+  "messageKeyboard": ["hello", "bye"],
+  "message": ["message", "message2"],
+  "token": "grouptoken",
+  "idgr": "idofgroup"
+}
